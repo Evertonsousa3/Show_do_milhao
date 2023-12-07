@@ -111,11 +111,10 @@ function askQuestion() {
       } else {
         console.log(`\nParabéns, ${playerName}! Você chegou ao final do Show do Milhão!`);
         console.log(`\nVocê ganhou: R$ ${score.toLocaleString()}`);
-        rl.close();
+        endGame();
       }
     });
 }  
 
-  
 console.log('Bem-vindo ao Show do Milhão!\n');
 getPlayerName();
