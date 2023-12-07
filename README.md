@@ -4,7 +4,7 @@ Aluno: Everton Sousa Oliveira
 
 Regras: O jogo Show do milhão é um jogo de perguntas e respostas que de acordo com as respostas certas, o participante vai aumentando o seu prêmio, todavia caso ele erre, ele pode perder tudo ou parte do prêmio já ganho, o usuário também pode escolher parar no meio do jogo, fazendo com que perca apenas uma parte do prêmio já ganho. Aqui está a tabela do valor de cada questão:
 
-    |Acertar	|Parar	    |Errar      |
+----|Acertar	|Parar	    |Errar      |
 |---|-----------|-----------|-----------|
 |1	|R$ 1 mil	|R$ 0	    |R$ 0       |
 |2	|R$ 2 mil	|R$ 1 mil	|R$ 500     |
