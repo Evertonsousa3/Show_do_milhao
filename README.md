@@ -4,23 +4,24 @@ Aluno: Everton Sousa Oliveira
 
 Regras: O jogo Show do milhão é um jogo de perguntas e respostas que de acordo com as respostas certas, o participante vai aumentando o seu prêmio, todavia caso ele erre, ele pode perder tudo ou parte do prêmio já ganho, o usuário também pode escolher parar no meio do jogo, fazendo com que perca apenas uma parte do prêmio já ganho. Aqui está a tabela do valor de cada questão:
 
-Acertar	        Parar	    Errar
-1	R$ 1 mil	R$ 0	    R$ 0
-2	R$ 2 mil	R$ 1 mil	R$ 500
-3	R$ 3 mil	R$ 2 mil	R$ 1 mil
-4	R$ 4 mil	R$ 3 mil	R$ 1.500
-5	R$ 5 mil	R$ 4 mil	R$ 2 mil
-6	R$ 10 mil	R$ 5 mil	R$ 2.500
-7	R$ 20 mil	R$ 10 mil	R$ 5 mil
-8	R$ 30 mil	R$ 20 mil	R$ 10 mil
-9	R$ 40 mil	R$ 30 mil	R$ 15 mil
-10	R$ 50 mil	R$ 40 mil	R$ 20 mil
-11	R$ 100 mil	R$ 50 mil	R$ 25 mil
-12	R$ 200 mil	R$ 100 mil	R$ 50 mil
-13	R$ 300 mil	R$ 200 mil	R$ 100 mil
-14	R$ 400 mil	R$ 300 mil	R$ 150 mil
-15	R$ 500 mil	R$ 400 mil	R$ 200 mil
-16	R$ 1 milhão	R$ 500 mil	R$ 0
+    |Acertar	|Parar	    |Errar      |
+|---|-----------|-----------|-----------|
+|1	|R$ 1 mil	|R$ 0	    |R$ 0       |
+|2	|R$ 2 mil	|R$ 1 mil	|R$ 500     |
+|3	|R$ 3 mil	|R$ 2 mil	|R$ 1 mil   |
+|4	|R$ 4 mil	|R$ 3 mil	|R$ 1.500   |
+|5	|R$ 5 mil	|R$ 4 mil	|R$ 2 mil   |
+|6	|R$ 10 mil	|R$ 5 mil	|R$ 2.500   |
+|7	|R$ 20 mil	|R$ 10 mil	|R$ 5 mil   |
+|8	|R$ 30 mil	|R$ 20 mil	|R$ 10 mil  |
+|9	|R$ 40 mil	|R$ 30 mil	|R$ 15 mil  |
+|10	|R$ 50 mil	|R$ 40 mil	|R$ 20 mil  |
+|11	|R$ 100 mil	|R$ 50 mil	|R$ 25 mil  |
+|12	|R$ 200 mil	|R$ 100 mil	|R$ 50 mil  |
+|13	|R$ 300 mil	|R$ 200 mil	|R$ 100 mil |
+|14	|R$ 400 mil	|R$ 300 mil	|R$ 150 mil |
+|15	|R$ 500 mil	|R$ 400 mil	|R$ 200 mil |
+|16	|R$ 1 milhão|R$ 500 mil	|R$ 0       |
 
 Como jogar: 
 Nome do Jogador: Informe seu nome no início do jogo.
