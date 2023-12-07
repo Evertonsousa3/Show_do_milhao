@@ -1,0 +1,15 @@
+{
+  "name": "show_do_milhao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "show_do_milhao.js",
+  "scripts": {
+    "start": "node show_do_milhao.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
