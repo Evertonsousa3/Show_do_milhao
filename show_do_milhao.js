@@ -30,8 +30,8 @@ const questions = [
     { question: 'Quem escreveu "Romeu e Julieta"?', options: ['a) Charles Dickens', 'b) William Shakespeare', 'c) Jane Austen', 'd) Fyodor Dostoevsky'], correctAnswer: 'b', prize: 200000},
     { question: 'Qual é o segundo planeta do Sistema Solar?', options: ['a) Mercúrio', 'b) Vênus', 'c) Terra', 'd) Marte'], correctAnswer: 'b', prize: 300000},
     { question: 'Em que ano a Primeira Guerra Mundial começou?', options: ['a) 1905', 'b) 1914', 'c) 1920', 'd) 1939'], correctAnswer: 'b', prize: 400000},
-    { question: 'Quantos elementos químicos naturais existem na Tabela Periódica?', options: ['a) 92', 'b) 98', 'c) 104', 'd) 110'], correctAnswer: 'c', prize: 500000},
-    { question: 'Em que ano o físico Albert Einstein ganhou o Prêmio Nobel de Física?', options: ['a) 1905', 'b) 1915', 'c) 1921', 'd) 1930'], correctAnswer: 'b', prize: 1000000},
+    { question: 'Quantos elementos químicos naturais existem na Tabela Periódica?', options: ['a) 92', 'b) 98', 'c) 104', 'd) 110'], correctAnswer: 'a', prize: 500000},
+    { question: 'Em que ano o físico Albert Einstein ganhou o Prêmio Nobel de Física?', options: ['a) 1905', 'b) 1915', 'c) 1921', 'd) 1930'], correctAnswer: 'c', prize: 1000000},
 ];
 
 let currentQuestionIndex = 0;
